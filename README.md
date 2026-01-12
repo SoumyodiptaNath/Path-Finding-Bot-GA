@@ -20,6 +20,16 @@ This project implements a **Genetic Algorithm (GA)** to evolve a high-dimensiona
 * **Data Visualization:** Heatmaps for fitness evolution and replay features for generational history.
 * **Modern GUI:** A centralized dashboard to manage weights, obstacles, and simulations.
 
+<br>
+
+Watch the agent learn!
+
+<br>
+
+![GA_Evolve](https://github.com/user-attachments/assets/25e0c197-eceb-4ae5-9855-89c46745f2ad)
+
+<br>
+
 ---
 
 ## 📂 Repository Structure

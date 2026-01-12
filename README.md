@@ -5,7 +5,11 @@
 
 This project implements a **Genetic Algorithm (GA)** to evolve a high-dimensional **PID Controller** for a mobile robot. The robot uses 2D ray-casting (Lidar-like sensors) to navigate through user-defined obstacle courses. The system includes a multi-processed training suite, a real-time Pygame visualizer, and a modern customtkinter dashboard.
 
+<\br>
+
 ![GA_Demo](https://github.com/user-attachments/assets/3fa9fa7e-0d9b-4989-866d-be06908fed71)
+
+<\br>
 
 ---
 

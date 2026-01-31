@@ -7,7 +7,7 @@ This project implements a **Genetic Algorithm (GA)** to evolve a high-dimensiona
 
 <br>
 
-![GA_Demo](https://github.com/user-attachments/assets/3fa9fa7e-0d9b-4989-866d-be06908fed71)
+![COMBO_GIF](https://github.com/user-attachments/assets/eeaa4b02-1b88-4bfa-923b-db1b7c76aaf7)
 
 <br>
 
@@ -26,7 +26,7 @@ Watch the agent learn!
 
 <br>
 
-![GA_Evolve](https://github.com/user-attachments/assets/25e0c197-eceb-4ae5-9855-89c46745f2ad)
+![COMBO_GIF_2](https://github.com/user-attachments/assets/70f5339f-74a8-4335-ae8f-9fd3d3e9f227)
 
 <br>
 

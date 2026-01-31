@@ -1,7 +1,8 @@
-# 🤖 GA-PID Autonomous Navigator
+# 🤖 Chromotion
+
 ### *Optimizing PID Controllers using Genetic Algorithms for Robotic Navigation*
 
-
+> **Chromotion** (*Chromosome* + *Motion*) represents the evolution of robotic movement through genetic optimization.
 
 This project implements a **Genetic Algorithm (GA)** to evolve a high-dimensional **PID Controller** for a mobile robot. The robot uses 2D ray-casting (Lidar-like sensors) to navigate through user-defined obstacle courses. The system includes a multi-processed training suite, a real-time Pygame visualizer, and a modern customtkinter dashboard.
 
